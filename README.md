@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Loris&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Big%20Data%20Engineer%20%7C%20Data%20Scientist&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Loris&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%C2%B7%20Big%20Data%20Engineer%20%7C%20Data%20Scientist&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/loris-c-8a9661230/">
@@ -91,3 +91,4 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
